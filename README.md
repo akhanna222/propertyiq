@@ -1,7 +1,7 @@
 # PropertyIQ
 
 Intelligent Property Analysis Platform for Irish Real Estate
-
+propertyiq.io
 ## Features
 
 - Comprehensive property analysis for Irish real estate
